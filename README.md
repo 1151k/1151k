@@ -1,3 +1,3 @@
-MD and software engineer from **[Gothenburg, Sweden](https://en.wikipedia.org/wiki/Gothenburg)**, currently undertaking a PhD in classification of obstructive airway diseases and allergy using machine learning models. Interested in reproducibility and transparency in research, user-friendly products, and open-source technology.
+MD, PhD, and software engineer from **[Gothenburg, Sweden](https://en.wikipedia.org/wiki/Gothenburg)**, currently working with phenotyping of obstructive airway diseases, allergy, and sleep apnea using machine learning. Also interested in meta-research, reproducibility and transparency, user-friendly products, and open-source technology.
 
 You can find more about my scientific work on **[ResearchGate](https://www.researchgate.net/profile/Daniil_Lisik)**.
